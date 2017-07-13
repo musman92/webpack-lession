@@ -1,0 +1,19 @@
+{
+  "name": "webpack-3-learn",
+  "version": "1.0.0",
+  "description": "learning webpack 3 from webpack.academy",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "mu92",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.2.0",
+    "babel-loader": "^7.1.1"
+  },
+  "dependencies": {
+    "file-loader": "^0.11.2"
+  }
+}
